@@ -1,4 +1,4 @@
-# Example
+# ⚙ Example
 
 ## Javascript
 

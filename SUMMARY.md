@@ -5,4 +5,4 @@
 
 ## 👨💻 Example code
 
-* [Example](example-code/example.md)
+* [⚙ Example](example-code/example.md)
