@@ -6,6 +6,8 @@
 
 ***
 
+### Example:
+
 <details>
 
 <summary>hiscoapi.djavelin.repl.co/gif/hug</summary>
