@@ -10,7 +10,7 @@
 
 <details>
 
-<summary>hiscoapi.djavelin.repl.co/gif/hug</summary>
+<summary>hiscoapi.djavelin.repl.co/api/gif/hug</summary>
 
 **Parametres**
 
@@ -37,7 +37,7 @@
 
 <!---->
 
-* hug<mark style="color:red;">\*</mark>          —          Sub folder
+* hug<mark style="color:red;">\*</mark>          —          Category folder
 
 <!---->
 

@@ -2,9 +2,9 @@
 
 * [📌 Get started](README.md)
 
-## Endpoints
+## ⛓ TYPES
 
-* [📽 Gif](endpoints/gif.md)
+* [📽 Gif](types/gif.md)
 
 ## 👨💻 Example code
 
