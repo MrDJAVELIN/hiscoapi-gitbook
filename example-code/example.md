@@ -3,7 +3,7 @@
 ## Javascript
 
 ```javascript
-const url = 'https://hiscoapi.djavelin.repl.co/gif/hug';
+const url = 'https://hiscoapi.djavelin.repl.co/api/gif/hug';
 
 fetch(url)
   .then(response => response.json())
@@ -17,7 +17,7 @@ fetch(url)
 ```python
 import requests
 
-url = 'https://hiscoapi.djavelin.repl.co/gif/hug'
+url = 'https://hiscoapi.djavelin.repl.co/api/gif/hug'
 
 response = requests.get(url)
 data = response.json()

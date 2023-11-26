@@ -4,7 +4,7 @@
 
 ## ⛓ TYPES
 
-* [📽 Gif](types/gif.md)
+* [📽 Gif](endpoints/gif.md)
 
 ## 👨💻 Example code
 
